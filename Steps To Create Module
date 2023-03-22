@@ -1,0 +1,7 @@
+1- In our case we go to toolkit folder
+2- Run Command : go mod init github.com/faizanaryan94/toolkit
+3- Go to app folder and run another command go mod init myapp
+4- To run multiple apps from one workspace
+5- Run Command: go work init toolkit app | <list of folders>
+6- Now we create a file tools.go with package toolkit
+7-
